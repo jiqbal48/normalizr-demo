@@ -34,5 +34,6 @@ const complexData = {
 
 const normalizedData = normalize(complexData, article);
 
+console.log("hi this is a test");
 console.log(complexData.author.name);
 console.log(normalizedData);
